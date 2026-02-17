@@ -1,4 +1,4 @@
-# 🌸 Flower Classification - Syntecxhub Internship
+# 🌸 Flower Data Classification
 
 The objective was to build a classifier that uses physical measurements (Sepal length/width and Petal length/width) to identify flower species. The project focuses on the end-to-end ML lifecycle: from Exploratory Data Analysis (EDA) to model comparison and interactive prediction.
 
